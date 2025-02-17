@@ -1,0 +1,4 @@
+Hello, this is a sample text file.
+It contains multiple lines of text
+that will be embedded into our C program.
+We will verify this content at runtime.
